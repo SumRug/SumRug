@@ -22,19 +22,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumrug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   </p>
 
-  <h2>🏆 GitHub Trophies</h2>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Sumrug&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-  </p>
-
-  <hr>
-
-  <p>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Sumrug&icon=0&color=0" alt="Visit Count">
-    </a>
-  </p>
-
-</div>
-
+ 
 </div>
